@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(), // Corrected line
   ],
+  base: '/Movie-Grid/'
 })
